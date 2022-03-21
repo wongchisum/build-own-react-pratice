@@ -14,7 +14,7 @@ const pathResolve = (pathname) => path.resolve(__dirname, pathname);
 
 module.exports = {
   mode: "development",
-  entry: pathResolve("./Main.jsx"),
+  entry: pathResolve("./V2Main.jsx"),
   output: {
     path: pathResolve("./dist"),
     filename: "bundle.js",

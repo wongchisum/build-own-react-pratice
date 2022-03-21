@@ -29,5 +29,4 @@ export function render(element, conatiner) {
   
     conatiner.appendChild(dom);
   }
-  
 }
