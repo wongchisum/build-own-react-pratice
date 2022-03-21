@@ -16,15 +16,15 @@ v1版本的渲染是递归调用渲染的，无法被打断，在组件层级较
 
 // Todo 
 
-![](E:\build-own-react-pratice\src\v2\fiber.jpg)
+![](https://github.com/wongshisum/build-own-react-pratice/blob/main/src/v2/fiber.jpg?raw=true "Fiber结构")
 
-Fiber结构可以轻易查询子级节点(child)，以及父级节点(parent),兄弟节点(sibling)
+Fiber结构可以轻易查询子级节点(child)，
 
+以及父级节点(parent),
 
+兄弟节点(sibling)
 
 ---
-
-
 
 ## 版本评价：
 
